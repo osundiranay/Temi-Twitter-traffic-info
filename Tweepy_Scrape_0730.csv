@@ -1,4 +1,4 @@
-Full Text,Author,Coordinates,Hashtags,Creation Time (UTC)
+Tweet Text,Author,Coordinates,Hashtags (Location),Creation Time (UTC)
 "A crash is blocking the carpool lane. in #Arcadia on 210 EB at Michillinda Ave, stopped traffic back to Sierra Madre, delay of 12 mins",TotalTrafficLA,"[34.14892, -118.0632]",['Arcadia'],2019-07-29 16:23:49
 "A crash is blocking the carpool lane. in #Arcadia on 210 EB at Michillinda Ave, stopped traffic back to Madre St, delay of 7 mins #LAtraffic",TotalTrafficLA,"[34.14892, -118.0632]",['Arcadia'],2019-07-29 16:12:13
 "A crash is blocking the three left lanes. in #WestCovina on I-10 WB at Holt Ave, stopped traffic back to Via Verde, delay of 11 mins",TotalTrafficLA,"[34.06873, -117.8612]",['WestCovina'],2019-07-29 15:54:37
