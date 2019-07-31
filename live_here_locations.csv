@@ -1,15 +1,49 @@
-,LATITUDE,LONGITUDE,start_end,incident
-0,34.05869,-118.41584,start,0
-1,34.04012,-118.57928,start,1
-2,34.06034,-118.41357,start,2
-3,34.07898,-118.75556,start,3
-4,34.33766,-118.5144,start,4
-5,34.082328,-118.598688,start,5
-6,34.33527,-118.51109,start,6
-0,34.06034,-118.41357,end,0
-1,34.082328,-118.598688,end,1
-2,34.05869,-118.41584,end,2
-3,34.066566,-118.754557,end,3
-4,34.33527,-118.51109,end,4
-5,34.04012,-118.57928,end,5
-6,34.33973,-118.50654,end,6
+,Closed Roads,Closure Details,Closure Type,Latitude,Longitude
+0,Santa Ana Fwy,Ramp  closed to Florence Ave/Exit 123, due to roadwork.,33.93622,-118.09481
+1,2nd Pl,Closed between S Hope St and W 2nd St, due to roadwork.,34.054907,-118.251555
+2,Sunset Pl,Closed between Wilshire Pl and Hoover St, due to roadwork.,34.06075,-118.28782
+3,Empire Ave,Closed between Victory Pl and Wilson Ave, due to roadwork.,34.19208,-118.32929
+4,Fairway Dr,Closed at Walnut Dr N, due to roadwork.,33.999664,-117.871428
+5,CA-39,Closed between NF-3N09 and CA-39/N San Gabriel Canyon Rd,.,34.30901,-117.85482
+6,Lucas Ave,Closed at W 1st St/Beverly Blvd/Glendale Blvd, due to roadwork.,34.06205,-118.25969
+7,Kellogg Dr,Closed at I-10/San Bernardino Fwy, due to roadwork.,34.063743,-117.811997
+8,1st St,Closed between W 1st St/Beverly Blvd and Glendale Blvd/W 2nd St, due to roadwork.,34.061341,-118.258692
+9,Pomona Fwy,Ramp  closed to Fullerton Rd, due to roadwork.,33.99455,-117.90513
+10,Pomona Fwy,Ramp  closed to Fullerton Rd, due to roadwork.,33.99365,-117.90521
+11,Angeles Crest Hwy,Closed between Waterman Fire Rd and NF-3N26c, due to rockfalls. Mud slide.,34.25846,-118.1052
+12,Garey St,Closed between E 1st St and E 3rd St/S Alameda St,.,34.04856,-118.23519
+13,Gen Thaddeus Kosciuszko Way,Closed between S Flower St and Tom Bradley Blvd, due to roadwork.,34.054802,-118.252773
+14,Lucas Ave,Closed at W 1st St/Beverly Blvd/Glendale Blvd, due to roadwork.,34.06205,-118.25969
+15,2nd Pl,Closed between W 2nd St and S Hope St, due to roadwork.,34.054636,-118.251462
+16,Fullerton Rd,Closed at Rowland St, due to roadwork.,33.996874,-117.90494
+17,Kellogg Dr,At I-10/San Bernardino Fwy - Entry ramp closed. Construction work.,,34.06433,-117.81208
+18,Ramona Rd,Closed between I-10/San Bernardino Fwy/Bus Ln and I-10/San Bernardino Fwy, due to roadwork.,34.06708,-118.15434
+19,Pomona Fwy,Ramp  closed to Fullerton Rd, due to roadwork.,33.99332,-117.90523
+20,Leighton Ave,Closed between Martin Luther King Jr Blvd and Exposition Blvd,.,34.013231,-118.290893
+21,Empire Ave,Closed between Wilson Ave and Victory Pl, due to roadwork.,34.1918,-118.33143
+22,Toluca St,Closed at W 1st St/Beverly Blvd, due to roadwork.,34.06155,-118.25861
+23,California St,Closed between Alley and Almeda Ave,.,34.15593,-118.33652
+24,Ramona Rd,Closed between I-10/San Bernardino Fwy and I-10/San Bernardino Fwy/Bus Ln, due to roadwork.,34.06572,-118.15693
+25,Orr and Day Rd/Mondon Ave,Closed at Cecilia St,. Incident.,33.93467,-118.09056
+26,Orr and Day Rd/Mondon Ave,Closed between Cecilia St and Florence Ave,. Incident.,33.93284,-118.09033
+27,6th St,Closed at E 6th St, due to roadwork.,34.03853,-118.23054
+28,E 6th St,Closed between Los Angeles River and S Alameda St, due to roadwork.,34.038564,-118.228276
+29,California St,Closed between Almeda Ave and Alley,.,34.1555,-118.33631
+30,Pasadena,Closed at W Sierra Madre Ave/Silverfish, due to serious fire.,34.23911,-117.85131
+31,Toluca St,Closed at W 1st St/Beverly Blvd, due to roadwork.,34.061231,-118.258866
+32,Fullerton Rd,Closed at Railroad St, due to roadwork.,34.002905,-117.904211
+33,Pasadena,Closed at East Fork Rd, due to serious fire.,34.199964,-117.860749
+34,Whittier Blvd,Closed at E 6th St, due to roadwork.,34.036845,-118.221478
+35,Santa Ana Fwy,Ramp  closed to I-5/Santa Ana Fwy, due to roadwork.,33.93538,-118.09063
+36,Garey St,Closed between E 3rd St/S Alameda St and E 1st St,.,34.04718,-118.23516
+37,Whittier Blvd,Closed between E 6th St and US-101/Santa Ana Fwy, due to roadwork.,34.038432,-118.227522
+38,S Hacienda Blvd,Closed at CR-N8/E Colima Rd,. Hazardous driving conditions.,33.958114,-117.958232
+39,Fairway Dr,Closed at Business Pkwy, due to roadwork.,33.99838,-117.87085
+40,Pomona Fwy,Ramp  closed to Fullerton Rd, due to roadwork.,33.99486,-117.90512
+41,Hacienda Blvd,Closed at East Rd,. Hazardous driving conditions.,33.976507,-117.969467
+42,Leighton Ave,Closed between Exposition Blvd and Martin Luther King Jr Blvd,.,34.013237,-118.291329
+43,San Bernardino Fwy,At Barranca St/Exit 37B - Entry ramp closed. Construction work.,,34.072,-117.88428
+44,San Bernardino Fwy,At Holt Ave - Exit ramp closed.,,34.06873,-117.86119
+45,San Bernardino Fwy,At Holt Ave - Entry ramp closed.,,34.07032,-117.86434
+46,San Bernardino Fwy,At CA-39/Azusa Ave/Exit 36 - Entry ramp closed. Construction work.,,34.07201,-117.90261
+47,E 6th St,Closed at Los Angeles River, due to roadwork.,34.038363,-118.231308
