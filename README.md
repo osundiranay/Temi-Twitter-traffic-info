@@ -85,6 +85,6 @@ https://github.com/ariellem2/Disaster_Response_Maps
 
 ## Team
 ----
-Rachel Koenig | https://www.linkedin.com/in/rachelmkoenig/
+Rachel Koenig | https://www.linkedin.com/in/rachelmkoenig/  
 Yichen Hu | https://www.linkedin.com/in/yichenhu114/
 Christopher Thompson | https://www.linkedin.com/in/christophercharlesthompson323/
