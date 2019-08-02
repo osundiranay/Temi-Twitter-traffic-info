@@ -56,7 +56,7 @@ Our initial goal was to output a list of road closures from November 2018 in Mal
 
 Location data is loaded in from HERE and Twitter and formatted to work with gmaps, including splitting latitude and longitude into two columns, as well as converting from strings to floats.   Coordinates columns are set to variables that can be passed into the gmaps function. Red is assigned to HERE closure points and blue to Twitter closure points.
 
-![Screenshot]("map screenshot.png")
+![Screenshot](map_screenshot.png)
 
 
 ### Workflow 
