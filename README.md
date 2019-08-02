@@ -30,9 +30,9 @@ You will also need to pip install python [gmaps](https://jupyter-gmaps.readthedo
 - Flask app 
 - Unused code for future students iterations 
 
-### Executive Summary 
+### Introduction 
 
-Our goal was to be able to take in a user-specified location and return road closures for that location via both a Google Map and in a searchable csv file. We accomplished this by creating a Flask app that let's the user enter an address and outputs the location’s latitude and longitude. The coordinates and a number of other criteria would then pass into a function to scrape real-time Twitter and HERE data. 
+Our goal was to be able to take in a user-specified location and return road closures for that location via both a Google Map and in a searchable csv file. We accomplished this by creating a Flask app that let's the user enter an address and outputs the location’s latitude and longitude. The coordinates and a number of other criteria would then pass into a function to scrape real-time Twitter and HERE data.
 
 ### Data Collection
 
@@ -71,14 +71,17 @@ One major decision was whether or not we needed a model.  We considered creating
 - Run all notebooks through Flask: Ideally we would want our flask app to accept in the location, distance, and a designated twitter account based on city on the home page form and output the full google map with plotted closuress, plus a searchable list of the incidents to save or print from your computer.
 - Better parsing function: Our Tweet parsing notebook currently relies on the very specific text patterns used by TotalTrafficLA. Ideally, we’d want to create a model that can generalize better to a broad spectrum of Twitter accounts.
 
+### Executive Summary
+We succeeded in sourcing data, converting addresses to latitude and longitude, and plotting coordinates on a map.  However, we think we really just scratched the surface of possibilities here so we do not believe our project is ready to launch.
+
 ## Sources 
 ----
 
 Documentation 
 
-[Tweepy](http://docs.tweepy.org/en/v3.5.0/) . 
+[Tweepy](http://docs.tweepy.org/en/v3.5.0/)   
 
-[Flask](https://flask.palletsprojects.com/en/1.0.x/) .
+[Flask](https://flask.palletsprojects.com/en/1.0.x/)  
 
 [HERE](https://developer.here.com/api-explorer/rest/traffic/traffic-incidents-via-proximity)
 
