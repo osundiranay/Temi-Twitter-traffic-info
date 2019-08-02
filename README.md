@@ -17,7 +17,7 @@ Our end result will allow the user (the public or rescue teams) to search by add
 Acquiring this api is a lengthy process and requires a twitter account and to provide some personal info such as a phone #.  You will also need to pip install the python [tweepy](https://www.tweepy.org/) library  to authorize api access.
 
 - [HERE API credentials:](https://developer.here.com/)
-HERE offers mapping and location services to companies such as Grab, Samsung, Bing Maps and AWS.  We 
+HERE offers mapping and location services to companies such as Grab, Samsung, Bing Maps and AWS. 
 
 - Geocoding API and Maps Javascript API from [google devloper console:](https://console.developers.google.com/apis/)
 You will also need to pip install python [gmaps](https://jupyter-gmaps.readthedocs.io/en/latest/install.html) library to authorize access.
@@ -75,6 +75,14 @@ One major decision was whether or not we needed a model.  We considered creating
 ----
 
 Documentation 
+
+[Tweepy](http://docs.tweepy.org/en/v3.5.0/) . 
+
+[Flask](https://flask.palletsprojects.com/en/1.0.x/) .
+
+[HERE](https://developer.here.com/api-explorer/rest/traffic/traffic-incidents-via-proximity)
+
+[gmaps](https://jupyter-gmaps.readthedocs.io/en/latest/tutorial.html)
 
 GitHub Repos (previous DSI cohorts)
 
